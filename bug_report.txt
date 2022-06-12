@@ -1,1 +1,25 @@
-
+Bug Name: The SAVE WINDOW does not open when click on the SAVE button.
+Bug ID: 1
+Area Path: FILE menu -> SAVE file
+Build Number: Version Number 5.0.1
+Severity: HIGH
+Priority: HIGH
+Assigned to: Developer-Y
+Reported By: Your Name
+Reported On: 01.06.22
+Reason: Defect
+Status: New
+Environment: Windows 10/Textbox
+  
+Description: The file saving window does not open when you click SAVE FILE in the MENU: FILE -> SAVE, in the application.
+  
+Steps to Reproduce:
+  1) Run the Application;
+  2) Navigate to the Menu -> File;
+  3) Clicked on the ‘Save’ button;
+  4) Seen an error window “ORA21090 Exception: Values Error…”;
+  5) See the attached logs for more information;
+  6) Also see the attached screenshot of the error page.
+ 
+ Expected Result: When you click the Save button, you should be offered a window to save the file.
+ Expected Result: Open an error window “ORA21090 Exception: Values Error…”
